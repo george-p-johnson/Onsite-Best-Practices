@@ -32,6 +32,8 @@ https://support.facilitynet.dk/hc/da/articles/360052966691-How-to-setup-Chrome-K
 
 Add --kiosk “http://ur.com” --disable-context-menu --disable-pinch
 
+After added, close and open the browser. If you have an instance open it will not accept the settings. At times, I do it a few times and it accepts the changes.
+
 ![My Image](Github_Images/Kiosk_Mode/6.png)
 
 
